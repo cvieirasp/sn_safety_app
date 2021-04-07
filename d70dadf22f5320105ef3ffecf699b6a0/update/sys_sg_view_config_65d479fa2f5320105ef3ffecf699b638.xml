@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config">
+    <sys_sg_view_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <name>Issue Detail Screen View Config</name>
+        <sys_class_name>sys_sg_view_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-07 14:18:34</sys_created_on>
+        <sys_id>65d479fa2f5320105ef3ffecf699b638</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Issue Detail Screen View Config</sys_name>
+        <sys_package display_value="Safety" source="x_476470_safety">d70dadf22f5320105ef3ffecf699b6a0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">d70dadf22f5320105ef3ffecf699b6a0</sys_scope>
+        <sys_update_name>sys_sg_view_config_65d479fa2f5320105ef3ffecf699b638</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-07 14:18:34</sys_updated_on>
+        <table>x_476470_safety_issue</table>
+        <template display_value="Applet 01">6bb0be5c41a71010f877183fc9b8be0c</template>
+    </sys_sg_view_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=65d479fa2f5320105ef3ffecf699b638"/>
+</record_update>
